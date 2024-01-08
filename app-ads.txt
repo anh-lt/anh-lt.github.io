@@ -566,3 +566,13 @@ smartstream.tv, 667, RESELLER
 smartstream.tv, 673, RESELLER
 triplelift.com, 13012, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 1058378980, RESELLER
+pubmatic.com, 161582, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 3891336054, RESELLER
+video.unrulymedia.com, 682817271102171104, RESELLER
+video.unrulymedia.com, 3795567838, RESELLER
+video.unrulymedia.com, 1286320118, RESELLER
+rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
+whildey.com, 6401127138, RESELLER
+advanttechnology.com, 2142690699, RESELLER
