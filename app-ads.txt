@@ -1,6 +1,7 @@
 google.com, pub-9062453463926143, DIRECT, f08c47fec0942fa0
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 openx.com, 560537014, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 applovin.com, 97f47b25470ab724e658a6ffad29acac, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CUD06Z68, RESELLER
@@ -580,6 +581,11 @@ whildey.com, 6401127138, RESELLER
 advanttechnology.com, 2142690699, RESELLER
 improvedigital.com, 1209, RESELLER
 ionvogroup.com, 4737400844, RESELLER
+goldbach-germany.de, Connekt, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+xandr.com, 15769, RESELLER
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
 chocolateplatform.com, 20028, RESELLER, 49a66ce31a704197
 pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
 inmobi.com, fe4db13744124582a6a2b18964560ce7, RESELLER, 83e75a7ae333ca9d
