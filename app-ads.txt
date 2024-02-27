@@ -2,6 +2,10 @@ google.com, pub-9062453463926143, DIRECT, f08c47fec0942fa0
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 openx.com, 560537014, DIRECT, 6a698e2ec38604c6
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+uis.mobfox.com, 2179, DIRECT, 5529a3d1f59865be
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
+adform.com, 2742, RESELLER
 applovin.com, 97f47b25470ab724e658a6ffad29acac, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 gamaigroup.com, 423056, RESELLER
@@ -666,3 +670,4 @@ aceex.io, 1697, RESELLER
 video.unrulymedia.com, 949394431, RESELLER
 appaspire.com, 97517, RESELLER
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
