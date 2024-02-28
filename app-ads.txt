@@ -6,6 +6,8 @@ uis.mobfox.com, 2179, DIRECT, 5529a3d1f59865be
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
 adform.com, 2742, RESELLER
+conversantmedia.com, 100331, RESELLER, 03113cd04947736d
+vidoomy.com, 6858194, RESELLER
 applovin.com, 97f47b25470ab724e658a6ffad29acac, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 gamaigroup.com, 423056, RESELLER
